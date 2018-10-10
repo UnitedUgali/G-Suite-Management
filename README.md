@@ -1,4 +1,4 @@
-# g_suite_management
+# G Suite Management
 This repository contains scripts in Python 3 to perform specific mostly user related tasks in G Suite.
 You need to have an API access and a client_secret.json file stored in the same folder as the repository. From there you can execute each script by itself using its mandatory options, which are documented in the -help flags. The method 'get_credentials' is at the moment implemented in every script because in a few occasions the scopes vary. With more time one could certainly simplify some things.
 
